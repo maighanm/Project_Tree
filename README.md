@@ -64,7 +64,7 @@ A **Flutter-based mobile application** designed for users to create, manage, and
 
 The Tree Information App empowers users to:
 
-- 🌳 Document tree species with rich visual and textual data.
-- ⭐ Organize and access favorite entries quickly.
-- 👤 Personalize their experience through profile customization.
+-  Document tree species with rich visual and textual data.
+-  Organize and access favorite entries quickly.
+-  Personalize their experience through profile customization.
 
